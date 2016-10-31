@@ -1,0 +1,16 @@
+Criar um projeto de advance vehicle em blueprint
+
+colar os arquivos e pastas na pasta Content
+
+Quando for abrir o projeto, deixa o seguitne game mode
+
+
+Game mode override: AltoGiroGameMode
+
+Default Pawn: ShevBlueprint
+
+HUD Class : AltoGiro_HUD
+
+Player Controller: AltoGiro_PlayerController
+
+o mapa de teste do asfalto está na pasta Maps, só abrir em file, open level, maps e abrir cidade
